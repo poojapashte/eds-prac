@@ -199,7 +199,7 @@
         "component": "multiselect",
         "valueType": "string",
         "name": "titleType",
-        "label": "Accordian Title",
+        "label": "Accordian title",
         "value": "",
         "options" :[
           {
