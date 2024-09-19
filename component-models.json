@@ -184,5 +184,24 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "accordian-item",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "title",
+        "label": "Accordian Title",
+        "value": ""
+      },
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "name": "text",
+        "value": "",
+        "label": "Accordian Description"
+      }
+    ]
   }
 ]
