@@ -16,7 +16,8 @@
       "cards",
       "columns",
       "fragment",
-      "accordian"
+      "accordian-block",
+      "accordion"
     ]
   },
   {
@@ -41,9 +42,15 @@
     ]
   },
   {
-    "id": "accordian",
+    "id": "accordian-block",
     "components": [
       "accordian-item"
+    ]
+  },
+  {
+    "id": "accordion",
+    "components": [
+      "accordion-entry"
     ]
   }
 ]
