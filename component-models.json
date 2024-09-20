@@ -241,7 +241,7 @@
     "id": "accordion-entry",
     "fields": [
       {
-        "component": "text",
+        "component": "richtext",
         "valueType": "string",
         "name": "title",
         "label": "Accordion Title"
