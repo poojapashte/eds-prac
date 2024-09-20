@@ -201,7 +201,7 @@
         "name": "titleType",
         "label": "Accordian title",
         "value": "",
-        "options" :[
+        "options": [
           {
             "name": "h1",
             "value": "h1"
@@ -257,6 +257,39 @@
         "valueType": "string",
         "name": "content",
         "label": "Accordion Text"
+      }
+    ]
+  },
+  {
+    "id": "accordion-group",
+    "fields": [
+      {
+        "component": "text",
+        "name": "style",
+        "label": "Style"
+      }
+    ]
+  },
+  {
+    "id": "accordion-item",
+    "fields": [
+      {
+        "component": "text",
+        "name": "head",
+        "label": "Head",
+        "raw": true
+      },
+      {
+        "component": "text",
+        "name": "headType",
+        "label": "Head Type",
+        "raw": true
+      },
+      {
+        "component": "text",
+        "name": "body",
+        "label": "Body",
+        "raw": true
       }
     ]
   }
