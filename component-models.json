@@ -275,13 +275,13 @@
     "fields": [
       {
         "component": "text",
-        "name": "head",
+        "name": "accordion_head",
         "label": "Head",
         "raw": true
       },
       {
         "component": "multiselect",
-        "name": "headType",
+        "name": "accordion_headType",
         "label": "Head Type",
         "options": [
           {
