@@ -274,7 +274,7 @@
     "id": "accordion-item",
     "fields": [
       {
-        "component": "text",
+        "component": "richtext",
         "name": "accordion_head",
         "label": "Head",
         "raw": true
