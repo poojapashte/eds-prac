@@ -283,6 +283,7 @@
         "component": "multiselect",
         "name": "accordion_headType",
         "label": "Head Type",
+        "value": "",
         "options": [
           {
             "name": "h1",
