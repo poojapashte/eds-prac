@@ -280,7 +280,7 @@
         "raw": true
       },
       {
-        "component": "text",
+        "component": "multiselect",
         "name": "headType",
         "label": "Head Type"
       },
