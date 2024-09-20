@@ -247,6 +247,12 @@
         "label": "Accordion Title"
       },
       {
+        "component": "text",
+        "valueType": "string",
+        "name": "titleType",
+        "label": "Accordion Title Type"
+      },
+      {
         "component": "richtext",
         "valueType": "string",
         "name": "content",
