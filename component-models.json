@@ -282,8 +282,7 @@
       {
         "component": "text",
         "name": "headType",
-        "label": "Head Type",
-        "raw": true
+        "label": "Head Type"
       },
       {
         "component": "richtext",
