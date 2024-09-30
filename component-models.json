@@ -186,136 +186,19 @@
     ]
   },
   {
-    "id": "accordian-item",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "title",
-        "label": "Accordian Title",
-        "value": ""
-      },
-      {
-        "component": "multiselect",
-        "valueType": "string",
-        "name": "titleType",
-        "label": "Accordian title",
-        "value": "",
-        "options": [
-          {
-            "name": "h1",
-            "value": "h1"
-          },
-          {
-            "name": "h2",
-            "value": "h2"
-          },
-          {
-            "name": "h3",
-            "value": "h3"
-          },
-          {
-            "name": "h4",
-            "value": "h4"
-          },
-          {
-            "name": "h5",
-            "value": "h5"
-          },
-          {
-            "name": "h6",
-            "value": "h6"
-          }
-        ]
-      },
-      {
-        "component": "richtext",
-        "valueType": "string",
-        "name": "text",
-        "value": "",
-        "label": "Accordian Description"
-      }
-    ]
-  },
-  {
     "id": "accordion-entry",
     "fields": [
       {
-        "component": "richtext",
+        "component": "text",
         "valueType": "string",
         "name": "title",
         "label": "Accordion Title"
-      },
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "titleType",
-        "label": "Accordion Title Type"
       },
       {
         "component": "richtext",
         "valueType": "string",
         "name": "content",
         "label": "Accordion Text"
-      }
-    ]
-  },
-  {
-    "id": "accordion-group",
-    "fields": [
-      {
-        "component": "text",
-        "name": "style",
-        "label": "Style"
-      }
-    ]
-  },
-  {
-    "id": "accordion-item",
-    "fields": [
-      {
-        "component": "richtext",
-        "name": "accordion_head",
-        "label": "Head",
-        "value": ""
-      },
-      {
-        "component": "multiselect",
-        "name": "accordion_headType",
-        "label": "Head Type",
-        "value": "",
-        "options": [
-          {
-            "name": "h1",
-            "value": "h1"
-          },
-          {
-            "name": "h2",
-            "value": "h2"
-          },
-          {
-            "name": "h3",
-            "value": "h3"
-          },
-          {
-            "name": "h4",
-            "value": "h4"
-          },
-          {
-            "name": "h5",
-            "value": "h5"
-          },
-          {
-            "name": "h6",
-            "value": "h6"
-          }
-        ]
-      },
-      {
-        "component": "richtext",
-        "name": "body",
-        "label": "Body",
-        "value": ""
       }
     ]
   }
