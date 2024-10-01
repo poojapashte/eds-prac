@@ -201,5 +201,24 @@
         "label": "Accordion Text"
       }
     ]
+  },
+  {
+    "id": "tabs-entry",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "value": "",
+        "name": "title",
+        "label": "Tab Title"
+      },
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "value": "",
+        "name": "content",
+        "label": "Tab Content"
+      }
+    ]
   }
 ]
